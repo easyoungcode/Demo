@@ -30,7 +30,7 @@
                     $.each(data,function(i,item) {
                        s+="<div class='alert alert-success'>";
                        s+="name: "+item.name+"<br>";
-                       // s+="score: "+item.score+"<br>";
+                       s+="score: "+item.score+"<br>";
                        s+="</div>";
                     });
                     $("#d").html(s);
