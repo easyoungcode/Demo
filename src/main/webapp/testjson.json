@@ -1,5 +1,5 @@
 [
-  {"name": "n1","score": 800},
-  {"name": "n2","score": 700},
-  {"name": "n3","score": 500}
+  {"name": "n1","score": 800,"c": "c"},
+  {"name": "n2","score": 700,"c": "c"},
+  {"name": "n3","score": 500,"c": "b"}
 ]

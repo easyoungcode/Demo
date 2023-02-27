@@ -31,6 +31,7 @@
                        s+="<div class='alert alert-success'>";
                        s+="name: "+item.name+"<br>";
                        s+="score: "+item.score+"<br>";
+                       s+="c: "+item.c+"<br>";
                        s+="</div>";
                     });
                     $("#d").html(s);
